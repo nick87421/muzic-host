@@ -1,0 +1,15 @@
+{
+  "albums": {
+    "Coolie": {
+      "title": "Coolie",
+      "artist": "Unknown",
+      "coverUrl": "https://raw.githubusercontent.com/nick87421/muzic-host/main/albums/Coolie/download.jpg",
+      "songs": [
+        {
+          "title": "Monica",
+          "url": "https://raw.githubusercontent.com/nick87421/muzic-host/main/albums/Coolie/Monica.mp3"
+        }
+      ]
+    }
+  }
+}
