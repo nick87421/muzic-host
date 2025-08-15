@@ -10,6 +10,33 @@
           "url": "https://raw.githubusercontent.com/nick87421/muzic-host/main/albums/Coolie/Monica.mp3"
         }
       ]
+    },
+    "Sahasam swasaga sagipo": {
+      "title": "Sahasam Swasaga Sagipo",
+      "artist": "Unknown",
+      "coverUrl": "https://raw.githubusercontent.com/nick87421/muzic-host/main/albums/Sahasam%20swasaga%20sagipo/download.jpg",
+      "songs": [
+        {
+          "title": "Chakkori",
+          "url": "https://raw.githubusercontent.com/nick87421/muzic-host/main/albums/Sahasam%20swasaga%20sagipo/Chakkori.mp3"
+        },
+        {
+          "title": "Kannula Munde",
+          "url": "https://raw.githubusercontent.com/nick87421/muzic-host/main/albums/Sahasam%20swasaga%20sagipo/Kannula%20Munde.mp3"
+        },
+        {
+          "title": "Shokilla",
+          "url": "https://raw.githubusercontent.com/nick87421/muzic-host/main/albums/Sahasam%20swasaga%20sagipo/Shokilla.mp3"
+        },
+        {
+          "title": "Taanu Nenu",
+          "url": "https://raw.githubusercontent.com/nick87421/muzic-host/main/albums/Sahasam%20swasaga%20sagipo/Taanu%20Nenu.mp3"
+        },
+        {
+          "title": "Vellipomaakey",
+          "url": "https://raw.githubusercontent.com/nick87421/muzic-host/main/albums/Sahasam%20swasaga%20sagipo/Vellipomaakey.mp3"
+        }
+      ]
     }
   }
 }
